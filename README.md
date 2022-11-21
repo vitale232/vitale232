@@ -18,4 +18,4 @@
 
 Hey there! 🤠 I'm Andrew Vitale, a passionate software developer from Upstate New York. My favorite part of software development is problem solving. There's nothing better than delighting users with a creative, scalable solution! 
 
-I'm passionate about the Web, accessibility, open source software, and helping to inform others. Currently, much of my day-to-day work involves building applications with TypeScript (oftentimes Angular) and C#/.NET in private repositories. In my free time, I like to explore the Rust language and ecosystem 🦀, build with Raspberry Pi and micro-controllers, and mountain bike. 
+I'm passionate about the Web, accessibility, open source software, and helping to inform others. Currently, much of my day-to-day work involves building applications with TypeScript (oftentimes Angular) and C#/.NET in private repositories. In my free time, I like to explore the Rust language and ecosystem 🦀, build with Raspberry Pi and micro-controllers, and mountain bike 🚵‍♂️. 
